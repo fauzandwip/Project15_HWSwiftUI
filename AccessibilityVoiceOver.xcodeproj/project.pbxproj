@@ -13,6 +13,7 @@
 		7BF19ADD2A6002EE00C0A66C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BF19ADC2A6002EE00C0A66C /* Preview Assets.xcassets */; };
 		7BF19AE52A60034000C0A66C /* IdentifyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF19AE42A60034000C0A66C /* IdentifyView.swift */; };
 		7BF19AE72A6008B800C0A66C /* HideAndGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF19AE62A6008B800C0A66C /* HideAndGroup.swift */; };
+		7BF19AE92A6041BF00C0A66C /* ReadingValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF19AE82A6041BF00C0A66C /* ReadingValue.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		7BF19ADC2A6002EE00C0A66C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7BF19AE42A60034000C0A66C /* IdentifyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdentifyView.swift; sourceTree = "<group>"; };
 		7BF19AE62A6008B800C0A66C /* HideAndGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HideAndGroup.swift; sourceTree = "<group>"; };
+		7BF19AE82A6041BF00C0A66C /* ReadingValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingValue.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				7BF19AE42A60034000C0A66C /* IdentifyView.swift */,
 				7BF19AE62A6008B800C0A66C /* HideAndGroup.swift */,
+				7BF19AE82A6041BF00C0A66C /* ReadingValue.swift */,
 			);
 			path = Introduction;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 			files = (
 				7BF19AD82A6002EC00C0A66C /* ContentView.swift in Sources */,
 				7BF19AD62A6002EC00C0A66C /* AccessibilityVoiceOverApp.swift in Sources */,
+				7BF19AE92A6041BF00C0A66C /* ReadingValue.swift in Sources */,
 				7BF19AE52A60034000C0A66C /* IdentifyView.swift in Sources */,
 				7BF19AE72A6008B800C0A66C /* HideAndGroup.swift in Sources */,
 			);
