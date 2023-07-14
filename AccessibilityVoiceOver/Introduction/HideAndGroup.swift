@@ -13,8 +13,10 @@ struct HideAndGroup: View {
                 Image(decorative: "character") // don't read image name
                     .resizable()
                     .scaledToFit()
+                    .frame(width: 200, height: 500)
                 // invisible from accessibility (useful for hidden elements)
                     .accessibilityHidden(true)
+                Spacer()
                 
                 // will read “Your Score is” or “1000”
                 VStack {
